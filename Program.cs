@@ -7,8 +7,8 @@ namespace NomeCompleto
         static void Main(string[] args)
         {
             string nomeCompleto;
-            string sobreNome;
             string nome;
+            string sobreNome;
 
             Console.Write("Digite o seu nome: ");
             nome = Console.ReadLine();
